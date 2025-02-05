@@ -1,0 +1,6 @@
+cmake
+build-essential
+libboost-all-dev
+libopenblas-dev
+liblapack-dev
+libgl1

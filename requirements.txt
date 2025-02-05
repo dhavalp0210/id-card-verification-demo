@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+groq
+pandas
+numpy
+python-dotenv
+setuptools
+wheel
+pillow
+dlib-bin==19.24.6
+face_recognition @ git+https://github.com/thetoby9944/face_recognition.git
