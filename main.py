@@ -45,7 +45,7 @@ def extract_aadhaar_details(image_path):
                     {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{base64_image}"}}  
                 ]
             }],
-            model="llama-3.2-11b-vision-preview",
+            model="meta-llama/llama-4-scout-17b-16e-instruct",
             temperature=0,
         )
 
